@@ -12,26 +12,5 @@
         "status": "in-progress",
         "createdAt": "2025-12-17T15:00:00",
         "updatedAt": "2025-12-17T15:10:00"
-    },
-    {
-        "id": 3,
-        "description": "Test new task",
-        "status": "todo",
-        "createdAt": "2025-12-17T17:31:35",
-        "updatedAt": "2025-12-17T17:31:35"
-    },
-    {
-        "id": 4,
-        "description": "Test new task",
-        "status": "todo",
-        "createdAt": "2025-12-17T17:31:38",
-        "updatedAt": "2025-12-17T17:31:38"
-    },
-    {
-        "id": 5,
-        "description": "Test new task",
-        "status": "todo",
-        "createdAt": "2025-12-17T17:31:43",
-        "updatedAt": "2025-12-17T17:31:43"
     }
 ]
